@@ -1,5 +1,5 @@
-<div id="header" >
-  <img src="Black Minimalist Corporate Professional Profile LinkedIn Banner.png" width="100"/>
+<div id="header" align="center" >
+  <img src="Black Minimalist Corporate Professional Profile LinkedIn Banner.png" />
 </div>
 ### About Me🎭
 
