@@ -1,8 +1,3 @@
-<div id="header" align="center" >
-  <img src="Black Minimalist Corporate Professional Profile LinkedIn Banner.png" />
-</div>
-
-
 <!--
 **solitary22EE/solitary22EE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
