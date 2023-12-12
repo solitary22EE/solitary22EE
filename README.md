@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 . Javascript <br>
 . Python<br>
-. Flutter
+. React
