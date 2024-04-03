@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -🌱I'am currently learning ...<br>
 -💬Ask me about technology ...
 
-### Currently Studying 📚
-
-. Javascript <br>
-. Python<br>
-. React
