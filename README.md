@@ -27,12 +27,12 @@ I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the worl
 ---
 
 ## 🌟 Featured Repositories  
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=rajkumarr&repo=reponame)](https://github.com/rajkumarr/reponame)  
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=solitary22EE&repo=Portfolio)](https://github.com/solitary22EE/Portfolio)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajkumarr&show_icons=true&theme=radical)  
+![Rajkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solitary22EE&show_icons=true&theme=radical)  
 
 ---
 
