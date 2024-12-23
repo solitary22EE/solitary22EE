@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hey! 👋  
 
 I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the world of **Web3 and Image Processing**.  
 
