@@ -29,6 +29,7 @@ I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the worl
 ## 🌟 Featured Repositories  
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=solitary22EE&repo=Portfolio)](https://github.com/solitary22EE/Portfoli)  
 
+
 ---
 
 ## 📊 GitHub Stats  
@@ -38,4 +39,6 @@ I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the worl
 
 ## 📫 Let's Connect!  
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rajkumar-r-811a7b249/)  
-- Email: [rajkumarkarikkal8942@gmail.com](mailto:rajkumarkarikkal8942@gmail.com)  
+- Email: [rajkumarkarikkal8942@gmail.com](mailto:rajkumarkarikkal8942@gmail.com)
+
+- ![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake-dark.svg)
