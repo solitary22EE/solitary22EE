@@ -14,9 +14,9 @@ I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the worl
 
 ## 🛠️ Skills & Tools  
 - **Languages:** Python, C++  
-- **Frameworks & Libraries:** OpenCV, TensorFlow, NumPy  
-- **Tools:** Git, VS Code  
-- **Databases:** MySQL 
+- **Frameworks & Libraries:** React JS, Node jS, OpenCV, TensorFlow, NumPy  
+- **Tools:** Git, VS Code, Postman,   
+- **Databases:** MySQL, MongoDB
 
 ---
 
