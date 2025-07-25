@@ -27,7 +27,7 @@ I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the worl
 ---
 
 ## 🌟 Featured Repositories  
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=solitary22EE&repo=Portfolio)](https://github.com/solitary22EE/Portfoli)  
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=solitary22EE&repo=Portfolio)](https://portfolio-solitary22ees-projects.vercel.app/)
 
 
 ---
