@@ -1,13 +1,13 @@
 # Hey! 👋  
 
-I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the world of **Web3 and Image Processing**.  
+I’m **RAJKUMAR**, a passionate **Computer Science Student** exploring the world of **Webdevelopment and Programming**.  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning: **Cloud Computing and Underwater Image Enhancement techniques**  
-- 🎯 Goals for 2025: **Contribute to open-source projects, publish a research paper on image processing, and enhance my problem-solving skills**  
-- 💬 Ask me about: **Python programming, image processing algorithms, and cloud computing concepts**  
+- 🌱 Currently learning: **MERN Stack**  
+- 🎯 Goals for 2026: **Contribute to open-source projects and enhance my problem-solving skills**  
+- 💬 Ask me about: **Python programming, Web development and React JS**  
 - 🌍 Languages: **English, Malayalam**  
 
 ---
